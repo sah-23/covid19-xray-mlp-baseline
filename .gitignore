@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.code-workspace
+
+# Data and outputs
+data/
+datasets/
+outputs/
+models/
+*.h5
+*.hdf5
+*.keras
+*.ckpt
+*.tflite
+*.onnx
+*.pb
+
+# Logs
+*.log
+logs/
+wandb/
+mlruns/
+
+# Kaggle
+kaggle.json
+
+# Python packaging / build
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Cache
+.cache/
+*.cache/
+__pypackages__/
+.pytest_cache/
+.mypy_cache/
+
+# Coverage
+.coverage
+coverage.xml
+.coverage.*
+
