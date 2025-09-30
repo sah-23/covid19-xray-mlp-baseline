@@ -4,7 +4,7 @@ Simple Keras/TF classifier that distinguishes COVID vs Non-COVID from chest X-ra
 
 ### Dataset
 
-- Source: Kaggle — COVID-19 Radiography Database (`COVID` and `Viral Pneumonia`/`Normal` subsets) by Pranav Rai Kokte. [Dataset link](https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset)
+- Source: Kaggle — COVID-19 Radiography Database (`COVID` and `Viral Pneumonia`/`Normal` subsets) by Pranav Rai Kokte. https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset
 - Download from Kaggle and extract locally. The notebook expects a folder layout like:
 
 ```
